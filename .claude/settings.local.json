@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git checkout *)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'feat: 添加 git-ship 技能' --body ' *)"
     ]
   }
 }
