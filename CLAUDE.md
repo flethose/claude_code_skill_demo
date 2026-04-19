@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 项目��述
+## 项目概述
 
 这是一个单文件 HTML 前端页面，用于知识库文件导入功能。该页面提供文件上传（支持 PDF 和 Markdown 格式）和实时处理进度监控。
 
@@ -68,3 +68,5 @@ start import.html
 - 文件类型限制：仅支持 `.pdf` 和 `.md` 文件（第 389 行）
 - 所有样式和逻辑都内联在 HTML 文件中，便于部署和测试
 - 使用了现代 CSS 特性（backdrop-filter、渐变、动画），需要较新的浏览器支持
+
+我也不知道加了什么
